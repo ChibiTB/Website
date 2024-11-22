@@ -30,7 +30,7 @@
     padding-left: 50px;
 }
 
-.logo{
+#navbar__logo{
     background-color: burlywood;
     background-image: linear-gradient(to top, rgba(189, 216, 90, 0.979) 0%, rgb(238, 116, 3) 100%)  ;
     background-size: 100%;
